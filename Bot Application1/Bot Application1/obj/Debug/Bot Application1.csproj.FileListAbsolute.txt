@@ -1,0 +1,63 @@
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Bot Application.dll.config
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Bot Application.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Bot Application.pdb
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Autofac.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Chronic.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.Bot.Connector.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Newtonsoft.Json.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\System.Net.Http.Formatting.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\System.Web.Http.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\System.Web.Http.WebHost.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Autofac.xml
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.xml
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.Bot.Connector.xml
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\Newtonsoft.Json.xml
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\System.Net.Http.Formatting.xml
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\System.Web.Http.xml
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\System.Web.Http.WebHost.xml
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\obj\Debug\Bot Application1.csprojResolveAssemblyReference.cache
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\obj\Debug\Bot Application1.csproj.CoreCompileInputs.cache
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\obj\Debug\Bot Application.dll
+C:\Users\varnt\source\repos\Bot Application1\Bot Application1\obj\Debug\Bot Application.pdb
